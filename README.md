@@ -33,3 +33,6 @@ Key Insights :
 Conclusion :
 
 This project shows how even a straightforward dataset can reveal interesting patterns once you clean it up and look at it from the right angles. The combination of location, ratings, and count gave a much more complete picture than any single variable on its own.
+
+![Dashboard Snapshot](Dashboard%20snapshot.png)
+
